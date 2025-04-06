@@ -1,0 +1,10 @@
+@import 'tailwindcss';
+/* google Noto Sans TC */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@100..900&display=swap');
+
+* {
+  /* for safari & chrome */
+  -webkit-font-smoothing: antialiased;
+  /* for firefox */
+  -moz-osx-font-smoothing: grayscale;
+}
