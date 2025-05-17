@@ -9,6 +9,7 @@
 1. 前往 [Google AI Studio](<https://aistudio.google.com/>)
 2. 登入 Google 帳號
 3. 建立 [API 金鑰](<https://aistudio.google.com/app/apikey>)
+4. src>views>homeview.vue 在 const apiKey = '' 中貼上金鑰
 
 ## 2.設定開發環境
 
